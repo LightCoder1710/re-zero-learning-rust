@@ -7,6 +7,6 @@ fn main () {
         println!("Safe");
     }
     else { 
-        println!("not safe");
+        println!("Not safe");
     }
 }
